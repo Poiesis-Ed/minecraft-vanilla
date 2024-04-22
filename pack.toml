@@ -1,0 +1,13 @@
+name = "Poiesis Vanilla"
+author = "Poiesis Team"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dbfac5e52c68b58a3255a0737c172040c4c483ea5005a14fcc132f30d464d4f5"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.4"
